@@ -1,4 +1,4 @@
-# LRUCache — Least Recently Used Cache in Java
+# Memory management simulator
 
 A from-scratch implementation of an LRU cache using a **HashMap + custom doubly linked list** combination — no `LinkedHashMap` shortcut.
 
