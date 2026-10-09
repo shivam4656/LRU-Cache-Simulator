@@ -1,4 +1,4 @@
-# Memory management simulator
+# LRU-Cache simulator
 
 A from-scratch implementation of an LRU cache using a **HashMap + custom doubly linked list** combination — no `LinkedHashMap` shortcut.
 
